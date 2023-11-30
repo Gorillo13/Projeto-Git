@@ -11,3 +11,4 @@ git push origin nome da branch: Envia os comits para a branch.
 git checkout nome da branch: Muda para a outra branch.
 git merge nome da branch que quer juntar: Adiciona todas as informações de uma branch à branch atual
 git clone link.git: copia para a pasta na qual foi aberta o git BASH todos os arquivos do repositório do link
+git pull: Dentro da pasta que você fez um clone, puxa as atualizações feita no repositório
