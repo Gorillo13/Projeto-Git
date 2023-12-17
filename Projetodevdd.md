@@ -1,6 +1,7 @@
 Comandos Git
 
 git init: Cria o repositório na pasta selecionada.
+git branch -M 'main': Muda o nome da branch principal de 'master' para 'main'
 git add: Adiciona as alterações a área de commit. Obs: git add nome do arquivo / git add .
 git status: Mostra quantas alterações existem na área de commit.
 git commit -m "Mensagem": Agrupa todas as alterações e da um nome ao grupo.
